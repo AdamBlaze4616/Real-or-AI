@@ -27,14 +27,15 @@ const QUIZ_ITEMS = [
     ]
   },
   {
-    src: "images/img-02.jpg",
+    src: "images/img-02.png",
     isAI: true,
     caption: "",
     tells: [
-      "Faces are melting and distorted, especially around the mouths and eyes.",
-      "The police badges and uniform patches are blurry gibberish, not real insignia.",
-      "Count the arms and legs in the scrum, some limbs do not belong to anyone.",
-      "This exact image was a well known AI fake from 2023. No such arrest ever happened this way."
+      "The whole shot is a little too perfect and glossy, evenly lit like a polished studio promo rather than a real, slightly imperfect news photo.",
+      "Look closely at the clasped hands, where the interlaced fingers blur together and are hard to count. That is still one of the biggest AI weak spots.",
+      "The skin is very smooth and waxy and the lighting is flawlessly flattering, which is the giveaway of a generated portrait.",
+      "Notice the trick: it wraps itself in a real, trusted news brand and an official looking 'Cyber Safety for Seniors' banner. That borrowed authority is exactly how a scam earns your trust.",
+      "Notice too that the on screen text is perfectly clean. Readable writing used to be a sign of a real photo, but AI handles it well now, so the safest move is to check whether the segment ever actually aired."
     ]
   },
   {
