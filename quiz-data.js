@@ -27,6 +27,18 @@ const QUIZ_ITEMS = [
     ]
   },
   {
+    src: "images/img-02.jpg",
+    isAI: true,
+    caption: "",
+    tells: [
+      "The smile and teeth are unusually uniform and polished. The teeth are very even in shape, spacing and brightness, which can be a clue in generated portraits.",
+      "Look around the beard, jawline and hairline. Some fine hairs soften or blend into the skin instead of staying as distinct strands.",
+      "The skin texture is inconsistent: parts of the forehead show detail while the cheeks and areas around the smile look smoother and more airbrushed.",
+      "The street background has very soft, melted-looking shapes and edges. Blur can be real, but AI backgrounds often lose coherent object detail when you look closely.",
+      "No single clue proves an image is AI-generated. The safest check is still to verify the image's original source and context."
+    ]
+  },
+  {
     src: "images/img-03.jpg",
     isAI: false,
     caption: "",
