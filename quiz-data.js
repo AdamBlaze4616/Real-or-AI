@@ -27,18 +27,6 @@ const QUIZ_ITEMS = [
     ]
   },
   {
-    src: "images/img-02.png",
-    isAI: true,
-    caption: "",
-    tells: [
-      "The whole shot is a little too perfect and glossy, evenly lit like a polished studio promo rather than a real, slightly imperfect news photo.",
-      "Look closely at the clasped hands, where the interlaced fingers blur together and are hard to count. That is still one of the biggest AI weak spots.",
-      "The skin is very smooth and waxy and the lighting is flawlessly flattering, which is the giveaway of a generated portrait.",
-      "Notice the trick: it wraps itself in a real, trusted news brand and an official looking 'Cyber Safety for Seniors' banner. That borrowed authority is exactly how a scam earns your trust.",
-      "Notice too that the on screen text is perfectly clean. Readable writing used to be a sign of a real photo, but AI handles it well now, so the safest move is to check whether the segment ever actually aired."
-    ]
-  },
-  {
     src: "images/img-03.jpg",
     isAI: false,
     caption: "",
